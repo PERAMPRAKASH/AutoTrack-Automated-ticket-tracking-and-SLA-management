@@ -73,7 +73,8 @@
    python manage.py makemigrations
    python manage.py migrate
    python manage.py runserver
-5. **Future Enhancements**
+   
+## Future Enhancements
 **=>**Email alerts for SLA violations
 **=>**Admin dashboard with ticket metrics
 **=>**File attachments on tickets
