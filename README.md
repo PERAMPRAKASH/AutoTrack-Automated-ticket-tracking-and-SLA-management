@@ -75,9 +75,9 @@
    python manage.py runserver
    
 ## Future Enhancements
-- **=>**Email alerts for SLA violations
-- **=>**Admin dashboard with ticket metrics
-- **=>**File attachments on tickets
-- **=>**Frontend UI (React/Bootstrap)
+- Email alerts for SLA violations
+- Admin dashboard with ticket metrics
+- File attachments on tickets
+- Frontend UI (React/Bootstrap)
 
 
